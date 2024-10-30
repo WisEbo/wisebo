@@ -22,25 +22,6 @@ With a strong foundation in **data validation, automation, and CI/CD pipelines**
 
 ---
 
-## 📂 Projects
-
-### 1. **Data Pipeline for Real-Time Analytics**
-   - **Description**: Developed a real-time data pipeline using **Apache Kafka** and **Spark Streaming** to ingest and process streaming data for an analytics dashboard.
-   - **Highlights**: Implemented data validation steps with **Great Expectations** and automated deployment with **GitHub Actions**.
-   - **Tech Stack**: Apache Kafka, Apache Spark, Python, Great Expectations, GitHub Actions
-
-### 2. **ETL Pipeline for E-commerce Data**
-   - **Description**: Built an ETL pipeline to clean, transform, and load large volumes of e-commerce data into a **Data Warehouse** for business reporting.
-   - **Highlights**: Utilized **AWS Glue** for ETL, **Redshift** for storage, and **SQL** for data transformation and reporting.
-   - **Tech Stack**: AWS Glue, AWS Redshift, SQL, Python
-
-### 3. **Customer Data Quality Monitoring System**
-   - **Description**: Created a data quality monitoring system to validate customer data and prevent data anomalies across various data sources.
-   - **Highlights**: Employed **CI/CD practices** to automate data validation with **Great Expectations** and integrated alerts for data quality issues.
-   - **Tech Stack**: Great Expectations, Python, Jenkins, SQL
-
----
-
 ## 🎓 Education & Certifications
 
 - **Data Engineering Bootcamp** - Northcoders
