@@ -6,37 +6,6 @@ With a strong foundation in **data validation, automation, and CI/CD pipelines**
 
 ---
 
-## 🔧 Skills & Technologies
-
-**Languages**  
-- Python, SQL, Bash
-
-**Data Engineering**  
-- Apache Spark, Apache Kafka, ETL Pipelines, Data Lakes, Data Warehouses
-
-**Data Validation & Automation**  
-- CI/CD (Jenkins, GitHub Actions), Testing Frameworks
-
-**Cloud & Big Data Services**  
-- AWS (S3, Glue), Azure (DevOps)
-
----
-
-## 🎓 Education & Certifications
-
-- **Data Engineering Bootcamp** - Northcoders
-- **B.Sc. Hons in Computer Science** - Brunel University
-
----
-
-## 💡 Interests
-
-- **Data Engineering**: Building efficient, scalable pipelines
-- **Automation**: Leveraging CI/CD to streamline and enhance data quality
-- **Continuous Learning**: Always exploring new tools and practices in data and cloud engineering
-
----
-
 ## 🤝 Let’s Connect!
 
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
