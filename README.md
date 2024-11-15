@@ -1,8 +1,4 @@
-<h2 align="left"> Hi! I'm Wisdom <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="50"/></h2>
-
-<!--- About Me -->
-<h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
-
+<h2 align="left"> Hi there 👋</h2>
 <p>
 Dynamic professional with extensive experience in Software Development and Testing, backed by a degree in Computer Science. I bring a strong focus on automation, data validation, and CI/CD pipelines, consistently ensuring quality and reliability. 
 
