@@ -1,5 +1,3 @@
-<h1 align="center"> Hi! I'm Wisdom <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="50"/> Welcome to my profile! </h1>
-
 <!--- About Me -->
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
