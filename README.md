@@ -18,8 +18,6 @@ In my free time, I enjoy collaborating with like-minded professionals and explor
 ____________________
 
 <!-- Technology Stack -->
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python badge"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript badge"/>
